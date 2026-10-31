@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yassinebkr/yassinebkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/yassinebkr/github-profile-terminal-svg/main/assets/terminal.svg"
+     width="100%" alt="Animated Debian XFCE terminal profile" />
 
-Here are some ideas to get you started:
+<a href="https://yassinebkr.github.io/ShellFolio/?run=launch">
+  <img src="https://raw.githubusercontent.com/yassinebkr/github-profile-terminal-svg/main/assets/pages-cta.svg"
+       width="100%" alt="Explore my interactive portfolio" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/yassinebkr/GENERATOR_REPO">
+  <img src="https://raw.githubusercontent.com/yassinebkr/github-profile-terminal-svg/main/assets/how-made-it.svg"
+       width="100%" alt="How this terminal was made" />
+</a>
+
+</div>
